@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Time Manager</string>
+    <string-array name="min_or_hour_array">
+        <item>Minutes</item>
+        <item>Hours</item>
+
+    </string-array>
+
+</resources>
